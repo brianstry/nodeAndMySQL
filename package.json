@@ -1,0 +1,26 @@
+{
+  "name": "nodeandmysql",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianstry/nodeAndMySQL.git"
+  },
+  "keywords": [
+    "something"
+  ],
+  "author": "brian strylowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianstry/nodeAndMySQL/issues"
+  },
+  "homepage": "https://github.com/brianstry/nodeAndMySQL#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  }
+}
